@@ -41,7 +41,7 @@ We compared three different approaches on the synthetic dataset (~600 images).
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/GenAI-Lab-1-Cat-Classification.git](https://github.com/YOUR_USERNAME/GenAI-Lab-1-Cat-Classification.git)
+    git clone [https://github.com/YOUR_USERNAME/GenAI-Lab-1-Cat-Classification.git](https://github.com/Kunalx10x/GenAI-Lab-1-Cat-Classification.git)
     cd GenAI-Lab-1-Cat-Classification
     ```
 2.  Install dependencies:
