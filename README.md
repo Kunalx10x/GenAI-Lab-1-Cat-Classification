@@ -55,4 +55,3 @@ We compared three different approaches on the synthetic dataset (~600 images).
 3.  Run the **Training** cells to reproduce the Custom CNN and ResNet50 results.
 4.  Run the **Evaluation** cells to see the confusion matrices and final comparison graph.
 
-## 📂 Repository Structure
